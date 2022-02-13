@@ -47,7 +47,7 @@ Only the *Jumpbox* machine can accept connections from the Internet. Access to t
 - *your IP*
 
 Machines within the network can only be accessed by the *jumpbox*.
-- *Jumpbox 
+- Jumpbox 
   - Public IP - 23.99.82.70
   - Private IP - 10.0.0.4
 
@@ -74,7 +74,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-![docker ps](Images/docker_ps_output.png)
+![docker ps](Images/docker_ps_output.PNG)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:

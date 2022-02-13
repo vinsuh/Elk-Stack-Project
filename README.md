@@ -13,7 +13,7 @@ These files have been tested and used to generate a live ELK deployment on Azure
   - [Filebeat Playbook](Ansible/filebeat-playbook.yml)
   - [Filebeat Config](Ansible/filebeat-config.yml)
   - [Metricbeat Playbook](Ansible/metricbeat-playbook.yml)
-  - [Metricbeat Config](Ansible/metricbest-config.yml)
+  - [Metricbeat Config](Ansible/metricbeat-config.yml)
 
 This document contains the following details:
 - Description of the Topologu
